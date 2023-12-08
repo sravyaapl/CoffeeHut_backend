@@ -4,3 +4,4 @@ Saharsh- 8- student
 Nalini- 60- homemaker
 Lipsa- 37- Banker
 Sikha- 37- Software
+loyal- 44- real estate
